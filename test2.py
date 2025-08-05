@@ -278,9 +278,6 @@ window.title("Cams")
 
 mainFrame = tkinter.Frame(window, width=300, height=300,background= "black")
 
-#lblMove = tkinter.Label(mainFrame, text="White to move", background= "white")
-#lblMove.grid(columnspan = 9, sticky="we")
-
 board = []
 rows = 8
 cols = 8
