@@ -347,4 +347,8 @@ reset.grid(row=11,columnspan=9, sticky="we")
 mainFrame.grid()
 board_set_up()
 
+
+
+
+
 window.mainloop()
